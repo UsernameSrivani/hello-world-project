@@ -1,1 +1,3 @@
-this is another folder
+Hello,
+
+this is second commit
